@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  This repository contains the code for a CRUD web project.
+  This repository contains the code for a CRUD web project interface.
 </p>
 
 ###
