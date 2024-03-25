@@ -13,7 +13,9 @@
 ###
 
 <div align="center">
-  <img  src=""  />
+  <img  src="https://github.com/DevAnaBeatriz/projetoweb/blob/V2-finalizado/img/index.PNG"  />
+  <img  src="https://github.com/DevAnaBeatriz/projetoweb/blob/V2-finalizado/img/consultar.PNG"  />
+  <img  src="https://github.com/DevAnaBeatriz/projetoweb/blob/V2-finalizado/img/atualizar.PNG"  />
 </div>
 
 
